@@ -1,0 +1,1 @@
+# Exercise-22-Horizontal-and-Cluster-Autoscaling-on-Amazon-EKS
